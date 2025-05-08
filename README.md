@@ -1,3 +1,3 @@
-<h3>Simplilearn-Javascript-Coding-Interview-Preparation</h3>
+<h2>Simplilearn - Javascript Coding Interview Preparation</h2>
 
-<img src="logo.jpg" alt="Simplilearn Logo" />
+<img src="logo.jpg" alt="Simplilearn Logo" style={textAlign:"center"} />
