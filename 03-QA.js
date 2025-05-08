@@ -1,0 +1,12 @@
+// Question : How to find duplicate elements in a given array
+// Answer :
+// To find duplicate elements use filter method, It takes three parameters (element,index,array).
+// Check if the first index of the element is not equal to its current index.
+
+// Example
+
+const duplicatedArray = [1,2,3,4,4,6,7,8,6,11,1,4]
+
+const result = duplicatedArray.filter((ele,index,arr) => arr.indexOf(ele) !== index)
+
+console.log(result) // [ 4, 6, 1, 4 ]
