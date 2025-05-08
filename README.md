@@ -1,4 +1,4 @@
-<h2>Simplilearn - Javascript Coding Interview Preparation</h2>
+<h2>Simplilearn - Javascript Coding Interview Preparation With Free Certifications</h2>
 
 <img src="logo.jpg" alt="Simplilearn Logo" />
 
